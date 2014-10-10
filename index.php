@@ -17,7 +17,7 @@ and open the template in the editor.
         <div class="login">
 		<footer></footer>
 		<div class="center-pane">
-			<form method="post" action="checkuser.php">
+			<form method="post" action="index2.php">
                                 <div class="form-group">
 					<h2><span class="label label-default center-block">สต๊อคสินค้า TOL</span></h2> 
 				</div>
