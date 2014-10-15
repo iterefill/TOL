@@ -33,7 +33,7 @@ and open the template in the editor.
                                 <div class="form-group">
 					<button type="submit" class="btn btn-default btn-primary btn-block" value="Login">เข้าระบบ</button>
 				</div>
-				<button type="submit" class="btn btn-default btn-primary btn-block" value="Login">เข้าระบบ</button>
+				
 			</form>
 			<div class="misc text-center">
 				Some text
